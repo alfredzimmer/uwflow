@@ -16,6 +16,7 @@ using ByteArray = poppler::byte_array;
 using Document = poppler::document;
 using Page = poppler::page;
 
+// test this file with `make test`
 namespace {
     OnceFlag errorFnFlag;
 
